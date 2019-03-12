@@ -1,0 +1,7 @@
+<b>NAME</b>
+\tprojShell -- afficher les caractéristiques de votre machine
+<b>SYNOPSIS</b>
+\tprojShell [-lw|-lu|-h|-help] [-s|--save file_name]
+<b>DESCRIPTION</b>
+\t-h|-help
+\t\tAffiche le manuel de cette commande
